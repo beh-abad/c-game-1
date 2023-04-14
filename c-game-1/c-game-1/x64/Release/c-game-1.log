@@ -1,0 +1,20 @@
+﻿  Animator.cpp
+  Main.cpp
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(29,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(42,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(47,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(52,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(57,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(62,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(62,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(67,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(67,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(72,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(72,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(79,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\My C++ Projects 2\C++_Game\C++_Game\Main.cpp(78,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 188 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  C++_Game.vcxproj -> E:\My C++ Projects 2\C++_Game\x64\Release\C++_Game.exe
