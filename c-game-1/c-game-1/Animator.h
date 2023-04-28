@@ -1,5 +1,5 @@
 ﻿#pragma once
-#include "SFML/Graphics.hpp"  //باید نصب شود
+#include "SFML/Graphics.hpp"  // باید بر روی کامپایلر نصب شود
 #include <map>
 
 using namespace sf;
